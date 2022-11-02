@@ -1,6 +1,6 @@
 ## Final Project Data Expert G2Academy | author : azwar8597@gmail.com
 
-## core-etl-s3-to-postgresql
+## Core ETL AWS S3 to AWS RDS PostgreSQL
 This project describes how to build an ETL from AWS S3 Bucket to AWS RDS PostgreSQL.
 
 ## The process steps are as follows:
